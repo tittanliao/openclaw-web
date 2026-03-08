@@ -1,0 +1,24 @@
+site_name: OpenClaw Web
+site_description: OpenClaw 專案文件
+docs_dir: docs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Roadmap: roadmap.md
+  - Projects:
+    - Overview: projects.md
+    - OpenClaw Core: projects/openclaw-core.md
+    - Brave Search: projects/brave-search.md
+    - TradingView Screenshot: projects/tradingview-screenshot.md
+    - XAUUSD Weekly Report: projects/xauusd-weekly-report.md
+    - Webhook Analysis: projects/webhook-analysis.md
+    - Strategy Backtesting: projects/strategy-backtesting.md
+    - Monetization: projects/monetization.md
+  - Assets: assets.md
+  - Risks: risks.md
+  - Prompts: prompts.md
+  - Reports: reports.md
+  - Webhook: webhook.md
